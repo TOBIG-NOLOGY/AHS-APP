@@ -28,7 +28,8 @@ app.set('view engine', 'ejs');
 app.use(express.json())
 const PORT = process.env.PORT || 7000
 
-//MONGODB_URL = "mongodb+srv://ojaykenny1:oluwatobijoseph1983@cluster0.hy8c6vg.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+
+
 mongoose.connect(process.env.MONGODB_URL)
 .then(()=>{
       console.log("MongoDB connected")
