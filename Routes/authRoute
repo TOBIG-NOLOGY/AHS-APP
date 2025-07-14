@@ -1,0 +1,21 @@
+// Import all endpoints, midddleware and names in here. You can create as many routes as possible
+
+//const express = require("express")
+//const router = express.Router()
+
+
+
+
+
+//router.post('/sign-up', validateUserSignUp , handleSignUp )
+
+//router
+
+//router
+
+//router
+
+
+
+
+module.exports = router

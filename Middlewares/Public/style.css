@@ -1,0 +1,21 @@
+. {
+   margin: 20rem;
+   width: 10rem;
+}
+
+
+body {
+  background-image: url(" ");
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding-top: 50px;
+}
+
+
+button {
+  padding: 10px 20px;
+  background-color: teal;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
